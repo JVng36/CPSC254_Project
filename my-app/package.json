@@ -3,10 +3,9 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"dev": "nodemon ./bin/www",
+		"dev": "vite dev",
 		"build": "vite build",
-		"preview": "vite preview",
-		"start:dev": "webpack-dev-server --open --config webpack/webpack.config.dev.js"
+		"preview": "vite preview"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
