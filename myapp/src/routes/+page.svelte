@@ -1,5 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to Student Scheduler</h1>
+<p> Please login.</p>
 <body>
     <form method="post" action="connect.php">
         Username: <input type = "text" name = "username"> <br>
