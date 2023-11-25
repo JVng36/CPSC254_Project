@@ -15,6 +15,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"date-fns": "^2.30.0"
+		"date-fns": "^2.30.0",
+		"react-schedule-selector": "^3.0.2"
 	}
 }
