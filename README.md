@@ -1,4 +1,4 @@
-# CPSC254_Project
+# CPSC254_Project: Meetup Scheduler
 This is a web application using Svelte as a frontend framework. <br>
 The goal of this application is find the free time slots of multiple users and output the available time slots.
 <br> 
